@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Xel Async Project](https://github.com/xel-comunnity/Xel-Async-Server)
 
-- 🌱 I’m currently learning **PHP, Laravel, Swoole, Go, HTMX**
+- 🌱 I’m currently learning **PHP, Laravel, Swoole, Go, HTMX, Solid Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/xel-comunnity](https://github.com/xel-comunnity)
 
