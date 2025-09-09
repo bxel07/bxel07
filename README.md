@@ -2,9 +2,9 @@
 #### I am Active Developer for especially for Web & BackEnd
 I am Yogi Pratama. I am Interested to wrote code for backend dev especially for roadmap PHP and GO.
 
-Skills: Fiber / GO / Swoole / Slim / Laravel / ReactPHP / PHP  / Express JS / Node JS / VUE JS / Tailwind / JS / HTML / CSS
+Skills: Fiber / GO / Swoole / Slim / Laravel / ReactPHP / PHP  / Express JS / Node JS / VUE JS / Tailwind / JS / HTML / CSS / FAST API
 
-- 🔭 I’m currently working on Xel Async Project 
+- 🔭 I’m currently working on Xel Async Project, ML Project
 - 🌱 I’m currently learning PHP, Laravel, Swoole, Go, HTMX, VUE 
 - 🤔 I’m looking for help with Developed Xel-Async Library 
 - 💬 Ask me about Ask me about PHP, Swoole 
