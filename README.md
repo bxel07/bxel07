@@ -1,24 +1,32 @@
-### Hi there 👋, my name is Yogi Pratama
-#### I am Active Developer for especially for Web & BackEnd
-I am Yogi Pratama. I am Interested to wrote code for backend dev especially for roadmap PHP and GO.
+## Hi, I'm Yogi 👋
 
-Skills: Fiber / GO / Swoole / Slim / Laravel / ReactPHP / PHP  / Express JS / Node JS / VUE JS / Tailwind / JS / HTML / CSS / FAST API
+Backend engineer from Jakarta, Indonesia. I build APIs and business systems with **PHP (Laravel)**, **Python (FastAPI)**, and **Go**, and I run the servers they live on.
 
-- 🔭 I’m currently working on Xel Async Project, ML Project
-- 🌱 I’m currently learning PHP, Laravel, Swoole, Go, HTMX, VUE 
-- 🤔 I’m looking for help with Developed Xel-Async Library 
-- 💬 Ask me about Ask me about PHP, Swoole 
-- 📫 How to reach me: 📫 How to reach me yogipratama.ut@gmail.com 
-- ⚡ Fun fact: Community say PHP dying, but still often used every where 
+- 🏢 DevOps Engineer at **PT Fourbest Synergy**: 40 production Linux servers, GitLab workflow, and code review standards
+- ⚡ Cut page execution time across 8 PHP apps from **~4–5 s to ~0.4 s** by eliminating N+1 queries
+- 📊 Built a Laravel budgeting system used by **500+ users** across ~30 modules
+- 🧪 Co-founder of **[Xel Framework](https://github.com/xel-comunnity)**, an async PHP framework on Swoole (PKM-KC 2023 grant, published at iCAST-ES 2023)
+- 🌏 Open to remote backend and DevOps roles
 
+### Tech stack
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bxel07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://xelcommunity.cloud/)  
+| Area | Tools |
+|---|---|
+| Languages | PHP, Python, Go, SQL, JavaScript |
+| Frameworks | Laravel, Lumen, FastAPI, Fiber, Swoole, ReactPHP, Vue.js |
+| Databases | PostgreSQL, MySQL / MariaDB, SQLite |
+| APIs | REST, OpenAPI (OAS3), JWT, Stripe, MamoPay, WHMCS, Moodle |
+| Infrastructure | Linux, Docker, Nginx, Apache, Cloudflare, GitLab CI, GitHub Actions |
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bxel07)](https://github.com/ryo-ma/github-profile-trophy)
+### Featured projects
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bxel07)](https://github.com/anuraghazra/github-readme-stats)
+| Project | What it is |
+|---|---|
+| [Xel-Skeleton](https://github.com/bxel07/Xel-Skeleton) | Async PHP framework for REST APIs, real-time and stream servers |
+| [Xel-Async-Server](https://github.com/bxel07/Xel-Async-Server) | HTTP server built on Swoole |
+| [xel-db](https://github.com/bxel07/xel-db) | MySQL/MariaDB and SQLite toolkit with connection pooling, migrations, and a query builder |
+| [Xel-Psr7-Bridge](https://github.com/bxel07/Xel-Psr7-Bridge) | Lazy-loaded PSR-7 bridge for Swoole requests and responses |
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bxel07&show_icons=true)  
+### Contact
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=bxel07)  
-
+📧 [yogipratama.ut@gmail.com](mailto:yogipratama.ut@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/yogi-pratama-9692b71b8)
